@@ -2,7 +2,7 @@ input: .
 output: .retype
 url:  # Add your website address here
 branding:
-  title: Mikey
+  title: Kevin
   label: Docs
   logo: images/dumbot-face-circle.png
 links:
