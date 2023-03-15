@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://krojas31.github.io/Retype-Practice/sitemap.xml.gz
